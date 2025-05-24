@@ -158,9 +158,10 @@ self.model = YOLO('runs/detect/train/weights/best_yolo11.pt')
 
 ## 👨‍💻 Author
 
-Developed by **\[Your Name]**
-🔗 GitHub: [@your-username]((https://github.com/Riddhiman-1098))
+Developed by **\[Riddhiman Mukhopadhyay]**
+🔗 GitHub: [@Riddhiman-1098]((https://github.com/Riddhiman-1098))
 
 ---
 
-Let me know if you'd like this turned into a Markdown file or want a version formatted for a website or documentation portal.
+## 📷 Screenshot of the GUI
+![image alt](https://github.com/Riddhiman-1098/PhytoBeacon/blob/4ebf5a1a40f090f461b4cbdcaf4c780e749d85c7/Screenshot%202025-03-26%20042539.png)
