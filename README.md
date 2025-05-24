@@ -1,6 +1,5 @@
 # PhytoBeacon 🧪
-Real-time detection of Phytoplankton using Deep Learning 
-
+Phytoplankton Detection GUI using Deep Learning
 Here’s a detailed and well-structured `README.md` content for your Python Tkinter application using YOLO for object detection:
 
 ---
